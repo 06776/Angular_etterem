@@ -12,7 +12,7 @@ Futtasd az `ng build` parancsot a projekt build-eléséhez.
 
 ## Unit tesztek futtatása
 
-Haználd az `ng test` parancsot. Bővebb információ: (https://karma-runner.github.io)
+Használd az `ng test` parancsot. Bővebb információ: (https://karma-runner.github.io)
 
 ## Segítség az Angular-ral kapcsolatban
 
@@ -20,5 +20,5 @@ Haználd az `ng test` parancsot. Bővebb információ: (https://karma-runner.git
 
 ## Created and written by
 
-Patrik Hajdara | Külkereskedelmi Technikum
+Hajdara Patrik | Külkereskedelmi Technikum
 &copy; 2023 | All rights reserved.
