@@ -4,7 +4,7 @@ Ez a projekt az Angular keretrendszer használatával készült!
 
 ## Fejlesztői szerver indítása
 
-Futtasd az `ng serve` parancsot a terminál-ban (a projekt mappáján belül). Írd be a következő címet a böngésző címsorába: `http://localhost:4200/`, vagy futtasd a szervert az `ng serve -o` paranccsal, mely automatikusan megynyitja a localhost linkjét az alapértelmezett böngészőben. A forráskódban történő módosításokat követően az oldal automatikusan frissül.
+Futtasd az `ng serve` parancsot a terminál-ban (a projekt mappáján belül). Írd be a következő címet a böngésző címsorába: `http://localhost:4200/`, vagy futtasd a szervert az `ng serve -o` paranccsal, mely automatikusan megnyitja a localhost linkjét az alapértelmezett böngészőben. A forráskódban történő módosításokat követően az oldal automatikusan frissül.
 
 ## Build-elés
 
@@ -20,5 +20,5 @@ Haználd az `ng test` parancsot. Bővebb információ: (https://karma-runner.git
 
 ## Created and written by
 
-Patrik Hajdara
+Patrik Hajdara | Külkereskedelmi Technikum
 &copy; 2023 | All rights reserved.
